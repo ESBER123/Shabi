@@ -9,6 +9,10 @@ const Contact = () => {
         <p>📧Email : Office@drshadi.at</p>
         <p>📍 Billrothstraße 58/DG, 1190 Wien</p>
         <p>🕒 Sat - Thu | 9:00 AM - 5:00 PM</p>
+        <p>
+          Termin online :
+          https://manager.docfinder.at/booking/org-WzFOhvFpa4/dr-med-dent-shadi-loutfi
+        </p>
       </div>
 
       <div className="right">

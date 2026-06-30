@@ -5,7 +5,7 @@ const Sidebar = () => {
     <div className="admin">
       <aside className="sidebar">
         <h2>Admin</h2>
-
+        <Link to="/">Home</Link>
         <Link to="/admin">Dashboard</Link>
         <Link to="users">Users</Link>
       </aside>

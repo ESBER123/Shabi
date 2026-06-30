@@ -6,7 +6,7 @@ import Team from "../pages/Team";
 import Contact from "../pages/Contact";
 import MainLayout from "../layouts/MainLayout";
 import AdminLayout from "../layouts/AdminLayout";
-import Dashboard from "../admin/Dashboard";
+import Dashboard from "../admin/page/Dashboard";
 import Users from "../admin/page/Users";
 const AppRoutes = () => {
   return (
@@ -22,9 +22,9 @@ const AppRoutes = () => {
       </Routes>
 
       <Routes>
-        <Route path="admin" element={<AdminLayout />}>
+        <Route path="/admin" element={<AdminLayout />}>
           <Route index element={<Dashboard />} />
-          <Route path="Users" element={<Users />} />
+          <Route path="users" element={<Users />} />
         </Route>
       </Routes>
     </>
