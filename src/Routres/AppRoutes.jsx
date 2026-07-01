@@ -8,6 +8,7 @@ import MainLayout from "../layouts/MainLayout";
 import AdminLayout from "../layouts/AdminLayout";
 import Dashboard from "../admin/page/Dashboard";
 import Users from "../admin/page/Users";
+import Teams from "../pages/Teams";
 const AppRoutes = () => {
   return (
     <>
@@ -18,6 +19,7 @@ const AppRoutes = () => {
           <Route path="/team" element={<Team />} />
           <Route path="/good-to-know" element={<Goodtoknow />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/Teams" element={<Teams />} />
         </Route>
       </Routes>
 

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Claudia Aichinger",
+    "position": "Orthodontist",
+    "image": "/assets/claudia.jpg",
+    "description": "Working intensively with children, young people and adults gives me an incredible amount of pleasure. Orthodontics never gets boring because it is constantly evolving."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Shadi Loutfi",
+    "position": "Orthodontist",
+    "image": "/assets/shadi.jpg",
+    "description": "I really enjoy working with patients who appreciate what we do and are happy with the result of their treatment."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Katharina Zifko",
+    "position": "Treatment Room",
+    "image": "/assets/katharina.jpg",
+    "description": "I became more and more interested in orthodontics during my dental studies and I am pleased to support the great team."
+  },
+  {
+    "id": 4,
+    "name": "Brigitte",
+    "position": "Office Manager",
+    "image": "/assets/brigitte.jpg",
+    "description": "I have been working in the practice since it opened. I take care of the finances and I am very happy to help with any kind of request."
+  },
+  {
+    "id": 5,
+    "name": "Grace",
+    "position": "Treatment Room",
+    "image": "/assets/grace.jpg",
+    "description": "I studied dentistry in the Philippines and have been working as an orthodontic assistant since 2005."
+  },
+  {
+    "id": 6,
+    "name": "Nadja",
+    "position": "Treatment Room",
+    "image": "/assets/nadja.jpg",
+    "description": "I have been working as an orthodontic assistant since 2006. I particularly enjoy working with children."
+  },
+  {
+    "id": 7,
+    "name": "Semanur",
+    "position": "Treatment Room",
+    "image": "/assets/semanur.jpg",
+    "description": "I have been working as an orthodontic assistant since 2013. The varied activities are a lot of fun."
+  },
+  {
+    "id": 8,
+    "name": "Nazdana",
+    "position": "Treatment Room",
+    "image": "/assets/nazdana.jpg",
+    "description": "I have been working as an orthodontic assistant since 2013. My top priority is patient satisfaction."
+  }
+]
